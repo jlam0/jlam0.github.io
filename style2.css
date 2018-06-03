@@ -1,0 +1,11 @@
+* {margin: 0 auto;}
+
+html{
+  text-align: center;
+  font-size: 125%;
+  background-color:  #FFE4B5;
+  }
+  
+#heading{
+  margin-bottom: 2em;
+  background-color: #FAFAD2;}
